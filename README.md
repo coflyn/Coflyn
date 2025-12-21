@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**Kvoryz/Kvoryz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "name": "Raffi Andhika",
+  "role": "Informatics Engineering Student",
+  "location": "Makassar, Indonesia",
+  "email": "riazrepo@gmail.com",
+  "phone": "+62 823-9940-8885",
+  "interests": [
+    "Web Development",
+    "Backend Development",
+    "Photography"
+  ],
+  "tech_stack": {
+    "languages": ["PHP", "JavaScript", "Java"],
+    "frameworks": ["Laravel"],
+    "database": ["MySQL"],
+    "tools": ["Git", "GitHub", "VS Code"]
+  },
+  "passion": "Errors are calls for you to progress",
+  "status": "Building projects & learning consistently"
+}
