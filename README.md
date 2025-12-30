@@ -64,6 +64,16 @@ const kvory = {
 
 ---
 
+### 🎮 Discord Status
+
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/601347669105049600?theme=dark&bg=0D1117&borderRadius=10px&animated=true)](https://discord.com/users/601347669105049600)
+
+</div>
+
+---
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kvoryz&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
