@@ -13,8 +13,7 @@ const kvory = {
   pronouns: "he/him",
   location: "Makassar, Indonesia 🇮🇩",
   currentFocus: "Informatics Engineering",
-  interests: ["Software Development", "Photography"],
-  funFact: "Errors are calls for you to progress ✨",
+  interests: ["Junior Software Development", "Photography"],
 };
 ```
 
@@ -40,7 +39,7 @@ const kvory = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kvoryz&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-**"Dont Repeat Yourself"** ✨
+**"Dont Repeat Yourself"**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
