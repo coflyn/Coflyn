@@ -13,7 +13,7 @@ const kvory = {
   pronouns: "he/him",
   location: "Makassar, Indonesia 🇮🇩",
   currentFocus: "Informatics Engineering",
-  interests: ["Junior Software Development", "Photography"],
+  interests: ["Junior Software Developer", "Photography"],
 };
 ```
 
