@@ -43,11 +43,7 @@ const coflyn = {
 
 <div align="center">
 
-### 📊 Stats & Connectivity
-
 ![Profile Views](https://komarev.com/ghpvc/?username=coflyn&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=coflyn&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 **"Simplicity is the soul of efficiency."**
 
