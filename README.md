@@ -22,6 +22,11 @@
 
 <br/>
 
+<details>
+<summary><b>Click Me!</b></summary>
+
+<br/>
+
 ### About me
 
 - 🚀 Creator of **[Mori](https://github.com/coflyn/Mori)** and **[scribdl-py](https://github.com/coflyn/scribdl-py)**
@@ -31,7 +36,7 @@
 
 <br/>
 
-### Languages and Tools
+### Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -48,3 +53,5 @@
   <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=coflyn&layout=compact&theme=dark" />
 </div>
 <br/>
+
+</details>
