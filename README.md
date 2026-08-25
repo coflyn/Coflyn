@@ -33,9 +33,9 @@
 
 ### Languages and Tools
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,dart,flutter,swift,kotlin,java,nextjs,php,html,css,git,nodejs" />
+    <img src="https://skillicons.dev/icons?i=js,py,dart,flutter,swift,kotlin,java,next,php,html,css,git,nodejs" />
   </a>
 </p>
 
@@ -47,5 +47,4 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=coflyn&theme=dark" />
   <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=coflyn&layout=compact&theme=dark" />
 </div>
-
 <br/>
